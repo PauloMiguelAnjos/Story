@@ -1,1 +1,5 @@
 capitulo 2
+
+
+
+alteracao feita no branch alien-plot chapter2
